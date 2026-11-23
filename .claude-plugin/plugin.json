@@ -1,0 +1,10 @@
+{
+  "name": "cache-keeper",
+  "version": "0.1.0",
+  "description": "Prompt-cache status band, 5-minute cold warning toast, and a /board keep-warm ping; every cost shown as % of plan limit.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "haniky"
+  }
+}

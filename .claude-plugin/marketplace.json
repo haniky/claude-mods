@@ -1,0 +1,5 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "haniky" },
+  "plugins": [{ "name": "cache-keeper", "source": "./" }]
+}
